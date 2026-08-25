@@ -14,10 +14,14 @@
 |---|---|---|---|
 | 💈 | [**brbitime**](https://github.com/farzanni/brbitime) | Online booking for barbershops & salons — Persian calendar, live slots, instant Telegram alerts to the owner, password-protected admin panel. Fully RTL, mobile-first. | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React_19-20232A?logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_4-38BDF8?logo=tailwindcss&logoColor=white) ![Postgres](https://img.shields.io/badge/Neon_Postgres-336791?logo=postgresql&logoColor=white) |
 | 🤖 | [**agent-lab**](https://github.com/farzanni/agent-lab) | Hands-on lab for building, evaluating and benchmarking LLM agents. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| 📈 | [**predict-market-lab**](https://github.com/farzanni/predict-market-lab) | Time-series forecasting experiments — tested, measurable, reproducible. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| 🧭 | [**conductor-linux**](https://github.com/farzanni/conductor-linux) | Orchestrate parallel AI coding agents from one CLI — isolated git-worktree workspaces. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| 📈 | [**predict-market-lab**](https://github.com/farzanni/predict-market-lab) | Create, record and score prediction-market forecasts on Polymarket — with Brier scoring & calibration. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| 🛍️ | [**ig_agent**](https://github.com/farzanni/ig_agent) 🔒 | Multi-tenant Instagram DM sales agent for clothing shops — official Messaging API + OAuth. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| 🎭 | [**tg_badboys**](https://github.com/farzanni/tg_badboys) 🔒 | Anonymous Telegram social bot (FA/EN) — rotating profiles, protected chats, relayed rooms. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| 💸 | [**nextjs-money-tracker**](https://github.com/farzanni/nextjs-money-tracker) | Personal finance tracker dashboard — Next.js App Router. | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white) |
 | 🌐 | [**cv**](https://farzanni.github.io/cv/) | My CV, live on GitHub Pages. | HTML |
 
-*Also in the workshop 🔒: a Kotlin POS/sales assistant for non-technical shopkeepers, a Persian streaming site, and more.*
+*Also in the workshop 🔒: a Kotlin POS/sales assistant for non-technical shopkeepers (super_sale), a Persian streaming site (persian-stream), a voice-driven AI secretary, an Android mic module, a coffee-shop storefront, and more.*
 
 ---
 
